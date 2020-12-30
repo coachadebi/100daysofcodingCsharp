@@ -5,6 +5,7 @@
 | Start Date    | End Date       |
 | ------------- | -------------- |
 | 4th Jan. 2021 | 14th Apr. 2021 |
+| Moday         | Wednesday      |
 
 ### Preparation Stages
 | Start Date     | End Date       |
@@ -32,7 +33,7 @@
 - KodeKloud's [Git Basics For DevOps Beginner](https://youtu.be/Lr7sYCrhxE0)
 - @en1tan [100DaysOfCode README Template](https://github.com/en1tan/100-days-csharp)
 
-**New thing(s) learned:**
+**New thing(s) learnt:**
 - Git and Git commands.
 - GitHub's Repository.
 - SSH Key Authentication For GitHub.
@@ -51,7 +52,7 @@
 - I made few google researches and found Visual Studio Code as an ideal environment to start with preparation day 2.
 - Installation went smooth with extra command line works for the installation of .NET onto my linux machine
 - No much time wasted after .NET, very eager to start up getting through with basic tutorials on the Microsoft webpage
-  and YES!, FINALLY! the output was "Hello, World!".
+  and YES! FINALLY! the output was "Hello, World!".
 - With VScode as my editor and following .NET tutorial, i edited the Program.cs file in the myApp dotnet folder,run it and gave same output as in the tutorial.
 ```c#
 using System;
@@ -74,7 +75,7 @@ namespace myApp
 - [.NET Linux Installation](https://docs.microsoft.com/en-gb/dotnet/core/install/linux)
 - [Intro. To .NET Tutorials](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 
-**New thing(s) learned:**
+**New thing(s) learnt:**
 - Installed VScode.
 - Installed Dotnet.
 - Created and Run Console App Using below dotnet commands.
@@ -88,5 +89,27 @@ dotnet run
 **Thoughts:**
 - The feeling when you finally see the legendary "Hello, World!" on your terminal console and editing it to output other messages  should be a smile
   and yes, that was a big smile on my face as i finally made progress to tell the computer to output what i want.
-  That alone has is an inspiration to continue my challenges ahead.
+  That alone is an inspiration to continue my challenges ahead.
+---
+
+
+## Log
+
+### 30th Dec. 2020 | Wednesday
+**Preparation Stage Day 3 Progress**:
+**Learning To Style With MarkDown**
+- I decided to make the readme file look attracting in reading by following up a tutorial made by a Boss friend @en1tan .
+- Made corrections to this repository which was earlier giving me errors as i tried to push  the readme file to an unexisting repository though thinking i did create earlier.
+- Successfully made a push to this main repository and continued styling with the styling.
+
+**Link to work:**
+- [Basics Of Github & Markdown By x1k](https://youtu.be/3GVRtOi-GIM)
+
+**New thing(s) learnt:**
+- Styling with md codes.
+- Using other useful Git commands.
+
+**Thoughts:**
+- Luckily i made it by correcting the error which was preventing me from using some git commands.
+- The styling is awesome now.
 ---
