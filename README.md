@@ -113,3 +113,36 @@ dotnet run
 - Luckily i made it by correcting the error which was preventing me from using some git commands.
 - The styling is awesome now.
 ---
+
+
+## Log
+
+### 31st Dec. 2020 | Thursday
+### Part 1
+
+**Preparation Stage Day 4 Progress**:
+**Setting Up Environment On Mobile**
+- Final day of my preparation,i noticed there was the need to fully to bring coding to myself anywhere i am without my laptop.
+  My mobile device should get the job done as it was not easy to setup C# programming environment on the mobile device, learnt it was something to do with coreclr failing to build on Android.
+- The ideal choice was Mono which runs .NET on Android.
+- Got my Termux set to install Mono by following guide made by @IanusInferus
+
+**Link to work:**
+- [Build Mono And MsBuild On Termux](https://github.com/IanusInferus/termux-mono)
+- [Termux(Linux Environment And Android Terminal)](https://github.com/termux/termux-app)
+- [C# Shell (C# Offline Compiler)](https://play.google.com/store/apps/details?id=com.radinc.csharpshell)
+
+**New thing(s) learnt:**
+- Installed Mono And MsBuild On Termux
+- Built and Executed C# Programming files with commands like:
+```
+mono
+msbuild
+mcs
+csc
+```
+
+**Thoughts:**
+- Being able to build and run C# programs on my mobile device is a plus to keep the challenge running.
+- There was another good app(linked above) natively supported to run C# programs on your mobile device,tried using and was good too though i will stick to Mono on Termux as my primary compiler and editor(nano/vim) on mobile device.
+---
