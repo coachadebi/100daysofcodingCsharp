@@ -146,3 +146,30 @@ csc
 - Being able to build and run C# programs on my mobile device is a plus to keep the challenge running.
 - There was another good app(linked above) natively supported to run C# programs on your mobile device,tried using and was good too though i will stick to Mono on Termux as my primary compiler and editor(nano/vim) on mobile device.
 ---
+
+
+## Log
+
+### 31st Dec. 2020 | Thursday
+### Part 2
+
+**Preparation Stage Day 4 Progress**:
+**Styling Termux With Oh My Zsh**
+- Working on the termux as far as git is concerned, found a git styling plugin that looks prettier on termux terminal.
+  Though needs to install zsh.
+```bash
+pkg install zsh
+```
+
+### Preview
+
+| ScreenShot |
+| ---------- |
+| ![url](oh_my_zsh_termux.png) |
+
+**Link to work:**
+- [oh-my-zsh](https://ohmyz.sh)
+- Simple script to install oh-my-zsh in Termux.
+  - [Termux OMZ](https://github.com/adi1090x/termux-omz/blob/master/README.md)
+
+---
