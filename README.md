@@ -165,7 +165,7 @@ pkg install zsh
 
 | ScreenShot |
 | ---------- |
-| ![url](oh_my_zsh_termux.png) |
+| ![url](images/oh_my_zsh_termux.png) |
 
 **Link to work:**
 - [oh-my-zsh](https://ohmyz.sh)
