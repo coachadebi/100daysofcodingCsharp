@@ -4,8 +4,8 @@
 
 | Start Date    | End Date       |
 | ------------- | -------------- |
-| 4th Jan. 2021 | 14th Apr. 2021 |
-| Moday         | Wednesday      |
+| 5th Jan. 2021 | 15th Apr. 2021 |
+| Tuesday       | Thursday       |
 
 ### Preparation Stages
 | Start Date     | End Date       |
