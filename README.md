@@ -173,3 +173,24 @@ pkg install zsh
   - [Termux OMZ](https://github.com/adi1090x/termux-omz/blob/master/README.md)
 
 ---
+
+
+
+## Log
+
+### 5th Jan. 2021 | Tuesday
+
+**Challenge  Day 1 Progress**:
+- A quick start to the introduction to C# programming.
+ ( The C# Language itself and the .NET Platform.)
+- How the C# codes get compiled and executed. 
+
+
+**New thing(s) learnt:**
+- Output codes of .NET programs are compiled to MSIL (Microsoft Intermediate Language)
+  which are controlled executed by the CLR (Common Language Runtime)
+
+**Thoughts:**
+- This has helped me to Know and understand how C# codes are compiled and executed to run on most operating systems.
+
+---
