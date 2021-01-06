@@ -194,3 +194,40 @@ pkg install zsh
 - This has helped me to Know and understand how C# codes are compiled and executed to run on most operating systems.
 
 ---
+
+
+
+## Log
+
+### 6th Jan. 2021 | Wednesday
+
+**Challenge  Day 2 Progress**:
+- Primitive types and declaring variables.
+- Constant `const `  keyword and other reserved keywords used in C# programming.
+- Rules to follow when declaring an identifier (variable).
+
+**New thing(s) learnt
+- Learnt the common used Primitive types in C# with their C# Type, .NET Type, Memory Allocation and their Ranges.
+  | C# Type | .NET Type | Mermory Allocation(Byte) |
+  |-------- | --------- | ---- |
+  | byte    | Byte      | 1    |
+  | short   | Int16     | 2    |
+  | int     | Int32     | 4    |
+  | long    | Int64     | 8    |
+  | float   | Single    | 4    |
+  | double  | Double    | 8    |
+  | decimal | Decimal   | 16   |
+  | char    | Char      | 2    |
+  | bool    | Boolean   | 1    |
+
+- A C# keyword can be used as an identifier by prefixing it with @
+  - char @int;
+- To be able to use a declared variable, it has to be assigned with a value.
+  - int number = 45;
+- C# types are converted to its .NET types equivalents during compilation.
+
+**Thoughts:**
+- Had a great day understanding both C# and .NET types which i spent much time getting their differences as at time taken for both to successfully compile.
+  Maybe i will be noticing much difference in compilation time when i start coding alot.
+
+---
