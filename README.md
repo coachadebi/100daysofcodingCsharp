@@ -231,3 +231,31 @@ pkg install zsh
   Maybe i will be noticing much difference in compilation time when i start coding alot.
 
 ---
+
+
+
+## Log
+
+### 7th Jan. 2021 | Thursday
+
+**Challenge  Day 3 Progress**:
+- Continueing with primitive types and variable declaration, today was very practical.
+
+**New thing(s) learnt**:
+- Overflow
+- Declaring variables with and without the `var` keyword
+- MinValue and MaxValue of data types
+
+**Link to work:**
+
+
+**Thoughts:**
+- I had to exceed the Maximum Value of a specific data type and the compiler was brave enough to successfully compile my code without any errors but wasn't pleased with the output `0` and such output I learnt is called `overflow` .
+- Instead of specifying data types for your variables, the `var` keyword is there to save you from wrong data type declaration on variables.
+- Worry of overflow? Yes, C# compiler does not check overflows by default, it has the `checked` keyword to manually do that yourself.
+- To stop this overflow which the compiler doesn't check by default, I used the `checked` keyword and got my program crashed with an exception thrown. No more worries of overflows again.
+- Another to talk about is string(another topic to learn) formatting,really liked how to put everything together in quotes.
+- By default, the c# compiler treats real numbers as double data types.
+  Appending an `f` to your float data type variables fixes it as well as appending `m` to your decimal data type variables.
+
+---
