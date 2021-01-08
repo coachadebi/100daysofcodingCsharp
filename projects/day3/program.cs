@@ -15,6 +15,9 @@ class Program{
 	bool aBoolean = true;
 	string aString = "C Sharp";
 	const int ConstVar = -58221;
+	
+	var username = "csharp_demo";
+	var age = 97;
 
 	Console.WriteLine(aByte);
 	Console.WriteLine(aShort);
@@ -23,6 +26,9 @@ class Program{
 
 	Console.WriteLine($"{float.MinValue} {float.MaxValue}");
 	Console.WriteLine("{0} {1}", short.MinValue, short.MaxValue);
+
+	Console.WriteLine(username);
+	Console.WriteLine(age);
 
         }
 }
