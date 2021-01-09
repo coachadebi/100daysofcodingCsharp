@@ -259,3 +259,26 @@ pkg install zsh
   Appending an `f` to your float data type variables fixes it as well as appending `m` to your decimal data type variables.
 
 ---
+
+
+
+## Log
+
+### 8th Jan. 2021 | Wednesday
+**Challenge Day 4 Progress**
+**Type Conversion**
+
+**New thing(s) learnt**
+- Implicit type Conversion
+- Explicit type Conversion (casting)
+- Conversation between non compatible types
+
+**Link to work:**
+
+
+
+**Thoughts**
+- Using the `try` and `catch` block, it was easy to handle exceptions throw by the compiler.
+- When copying a byte value to an int , the runtime prefixes that value with a bunch of zeros which prevents data loss.
+- `Convert` class and `Parse` were helpful in converting other non compatible types.
+---
