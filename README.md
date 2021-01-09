@@ -274,8 +274,7 @@ pkg install zsh
 - Conversation between non compatible types
 
 **Link to work:**
-
-
+- [Project](https://github.com/coachadebi/100daysofcodingCsharp/tree/main/projects/day4)
 
 **Thoughts**
 - Using the `try` and `catch` block, it was easy to handle exceptions throw by the compiler.
