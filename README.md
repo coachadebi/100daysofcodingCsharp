@@ -264,7 +264,7 @@ pkg install zsh
 
 ## Log
 
-### 8th Jan. 2021 | Wednesday
+### 8th Jan. 2021 | Friday
 **Challenge Day 4 Progress**
 **Type Conversion**
 
