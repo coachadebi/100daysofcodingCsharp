@@ -294,8 +294,8 @@ pkg install zsh
 - Arithmetic Operators  `+` , `-` , `*` , `/` , `%`
  - Increment `++`
  - Decrement `--`
-- Comparison Operators ``==` , `<` ,
- `>` , `<=` 
+- Comparison Operators `==` , `<` ,
+`>` , `<=` 
 , `>=` , `!=`
 
 **Link to work:**
