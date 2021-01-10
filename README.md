@@ -281,3 +281,27 @@ pkg install zsh
 - When copying a byte value to an int , the runtime prefixes that value with a bunch of zeros which prevents data loss.
 - `Convert` class and `Parse` were helpful in converting other non compatible types.
 ---
+
+
+
+## Log
+
+### 9th Jan. 2021 | Saturday
+**Challenge Day 5 Progress**
+**Operators**
+
+**New thing(s) learnt**
+- Arithmetic Operators  `+` , `-` , `*` , `/` , `%`
+ - Increment `++`
+ - Decrement `--`
+- Comparison Operators ``==` , `<` ,
+ `>` , `<=` 
+, `>=` , `!=`
+
+**Link to work:**
+
+
+**Thought**
+- Two ways to use increment and decrement operators.
+Either Prefixing as in `number++` or Postfixing as `++number`
+---
