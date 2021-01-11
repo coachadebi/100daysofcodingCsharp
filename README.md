@@ -319,6 +319,9 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Logical `&&` , `||` , `!`
 
 **Link to work:**
+- [Project](https://github.com/coachadebi/100daysofcodingCsharp/tree/main/projects/day6)
+
 **Thought**
 - Comparison and logical operators return `True` or `False` and are used in mostly `conditional statements` which i can't wait to get my skills to that level.
 - Really excited so far with my progress.
+---
