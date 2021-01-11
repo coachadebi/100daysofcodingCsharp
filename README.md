@@ -305,3 +305,20 @@ pkg install zsh
 - Two ways to use increment and decrement operators.
 Either Prefixing as in `number++` or Postfixing as `++number`
 ---
+
+
+
+## Log
+
+### 10th Jan. 2021 | Sunday
+**Challenge Day 6 Progress**
+**Continuation on Operators**
+
+**New thing(s) learnt**
+- Assignment `=` , `+=` , `-=` , `*=` , `/=`
+- Logical `&&` , `||` , `!`
+
+**Link to work:**
+**Thought**
+- Comparison and logical operators return `True` or `False` and are used in mostly `conditional statements` which i can't wait to get my skills to that level.
+- Really excited so far with my progress.
