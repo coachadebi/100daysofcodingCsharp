@@ -265,7 +265,7 @@ pkg install zsh
 ## Log
 
 ### 8th Jan. 2021 | Friday
-**Challenge Day 4 Progress**
+**Challenge Day 4 Progress**:
 **Type Conversion**
 
 **New thing(s) learnt**
@@ -287,7 +287,7 @@ pkg install zsh
 ## Log
 
 ### 9th Jan. 2021 | Saturday
-**Challenge Day 5 Progress**
+**Challenge Day 5 Progress**:
 **Operators**
 
 **New thing(s) learnt**
@@ -311,7 +311,7 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 ## Log
 
 ### 10th Jan. 2021 | Sunday
-**Challenge Day 6 Progress**
+**Challenge Day 6 Progress**:
 **Continuation on Operators**
 
 **New thing(s) learnt**
@@ -331,7 +331,7 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 ## Log
 
 ### 11th Jan. 2021 | Monday
-**Challenge Day 7 Progress**
+**Challenge Day 7 Progress**:
 **String Concatenation**
 
 **New thing(s) learnt**
@@ -349,13 +349,15 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 ## Log
 
 ### 12th Jan. 2021 | Tuesday
-**Challenge Day 8 Progress**
+**Challenge Day 8 Progress**:
 **Reading User Input**
 
 **New thing(s) learnt**
 - Collecting and storing input data.
 - `Console.ReadLine()` method.
+
 **Link to work:**
+[Project](https://github.com/coachadebi/100daysofcodingCsharp/tree/main/projects/day8)
 
 **Though**
 - So far, i am able to interact with the console and retrieve data inputs as well as storing such data in a variable.
