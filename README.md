@@ -325,3 +325,20 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Comparison and logical operators return `True` or `False` and are used in mostly `conditional statements` which i can't wait to get my skills to that level.
 - Really excited so far with my progress.
 ---
+
+
+
+## Log
+
+### 11th Jan. 2021 | Monday
+**Challenge Day 7 Progress**
+**String Concatenation**
+
+**New thing(s) learnt**
+- Using the arithmetic operator `+` on strings.
+
+**Link to work:**
+
+
+**Thought**
+- The `+` operator not just for arithmetic but can be used to combine strings together.
