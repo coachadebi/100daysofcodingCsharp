@@ -343,3 +343,20 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 **Thought**
 - The `+` operator not just for arithmetic but can be used to combine strings together.
 ---
+
+
+
+## Log
+
+### 12th Jan. 2021 | Tuesday
+**Challenge Day 8 Progress**
+**Reading User Input**
+
+**New thing(s) learnt**
+- Collecting and storing input data.
+- `Console.ReadLine()` method.
+**Link to work:**
+
+**Though**
+- So far, i am able to interact with the console and retrieve data inputs as well as storing such data in a variable.
+---
