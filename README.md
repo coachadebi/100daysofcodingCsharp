@@ -338,7 +338,8 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Using the arithmetic operator `+` on strings.
 
 **Link to work:**
-
+[Project](https://github.com/coachadebi/100daysofcodingCsharp/tree/main/projects/day7)
 
 **Thought**
 - The `+` operator not just for arithmetic but can be used to combine strings together.
+---
