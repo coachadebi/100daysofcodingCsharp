@@ -362,3 +362,30 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 **Though**
 - So far, i am able to interact with the console and retrieve data inputs as well as storing such data in a variable.
 ---
+
+
+
+## Log
+
+### 13th Jan. 2021 | Wednesday
+**Challenge Day 9 Progress**:
+
+
+**Converting User Input**
+- Using some `System.Convert` class methods.
+
+
+**New things learnt**
+- `Convert.ToInt32()`
+- `Convert.ToDouble()`
+- `Convert.ToDecimal()`
+
+
+**Link to work:**
+[Project]()
+
+
+**Thought**
+- Numeric values from user input are also returned as characters of string by the `Console.ReadLine()` method.
+- Arithmetic cannot be done on such returned values unless i typecast ReadLine with preferred Converting method.
+---
