@@ -389,3 +389,31 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Numeric values from user input are also returned as characters of string by the `Console.ReadLine()` method.
 - Arithmetic cannot be done on such returned values unless i typecast ReadLine with preferred Converting method.
 ---
+
+
+
+## Log
+
+### 14th Jan. 2021 | Thursday
+
+**Challenge Day 10 Progress:***
+
+**Intro. To Class**
+
+
+**New thing(s) learnt:**
+
+- Access Modifiers
+- Class fields and properties
+- Objects (Instances) of a class
+
+
+**Link to work:**
+
+- [Project]()
+
+
+**Thought:**
+
+- We use the `new` keyword to create an instance from a class.
+---
