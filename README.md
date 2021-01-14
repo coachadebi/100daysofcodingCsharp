@@ -382,7 +382,7 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 
 
 **Link to work:**
-[Project]()
+- [Project](https://github.com/coachadebi/100daysofcodingCsharp/tree/main/projects/day9)
 
 
 **Thought**
