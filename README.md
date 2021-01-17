@@ -417,3 +417,28 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 
 - We use the `new` keyword to create an instance from a class.
 ---
+
+
+
+## Log
+
+### 15th Jan. 2021 | Friday
+
+**Challenge Day 11 Progess**
+
+- Continuation of introduction to class.
+
+**New thing(s) learnt:**
+
+- Static Methods.
+
+
+**Link to work:**
+
+- [Project]()
+
+
+**Thought:**
+
+- For static methods, we don't need to create any object of the class to be used.
+---
