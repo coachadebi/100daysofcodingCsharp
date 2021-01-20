@@ -442,3 +442,31 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 
 - For static methods, we don't need to create any object of the class to be used.
 ---
+
+
+
+## Log
+
+### 16th Jan. 2021 | Saturday
+
+**Challenge Day 12 Progess**
+
+- Intro. To Array
+
+
+**New Thing(s) Learnt:**
+
+- Declaring Arrays
+- Initializing Arrays
+- Accessing Array Elements
+
+
+**Link To Work:**
+
+- [Project]()
+
+
+**Thoughts:**
+- Arrays are allocated memories during their declarations with the `new` keyword.
+- Accessing elements of an array is done by using their specific array indexes starting from 0.
+---
