@@ -470,3 +470,32 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Arrays are allocated memories during their declarations with the `new` keyword.
 - Accessing elements of an array is done by using their specific array indexes starting from 0.
 ---
+
+
+
+## Log
+
+### 17th Jan. 2021 | Sunday
+
+**Challenge Day 13 Progess**
+
+- Strings
+
+
+**New Thing(s) Learnt:**
+
+- Creating strings.
+  - Using string literal.
+  - Using string concatenation.
+
+**Link To Project:**
+
+- [Project]()
+
+
+**Thought:**
+
+- Strings are sequence of characters.
+- Strings are enclosed in double quotes `" "`
+- The `string` keyword is a class in the `System` namespace
+---
