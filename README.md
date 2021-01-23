@@ -499,3 +499,28 @@ Either Prefixing as in `number++` or Postfixing as `++number`
 - Strings are enclosed in double quotes `" "`
 - The `string` keyword is a class in the `System` namespace
 ---
+
+
+
+## Log
+
+### 18th Jan. 2021 | Monday
+
+**Challenge Day 14 Progess**
+
+- Strings Continuation
+
+
+**New Thing(s) Learnt:**
+
+- Creating strings.
+  - Using string methods
+
+**Link To Project:**
+
+- [Project]()
+
+
+**Thought:**
+
+- Strings are immunatable.
